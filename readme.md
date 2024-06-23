@@ -1,6 +1,10 @@
 
 ```markdown
 # DeepwaveSLM4
+![20240613at9 27 18 PM](https://github.com/Heisnotanimposter/LLM_tensor_Android/assets/97718938/81c2fcf5-8bfa-4403-aa0d-25f0478755b6)
+![20240613at9 33 25 PM](https://github.com/Heisnotanimposter/LLM_tensor_Android/assets/97718938/bbdeae08-0758-4f86-8b4a-a993f5877878)
+![20240614at12 41 55 AM](https://github.com/Heisnotanimposter/LLM_tensor_Android/assets/97718938/702c97e0-3802-434c-aeb5-94a9bbe5a177)
+![20240614at12 52 56 AM](https://github.com/Heisnotanimposter/LLM_tensor_Android/assets/97718938/e53fc898-6846-4ed8-a010-e0bd2b462170)
 
 DeepwaveSLM4 is an Android application that leverages a TensorFlow Lite (TFLite) model to perform question-answering tasks using a BERT-based model. This project provides a streamlined approach to integrating TFLite models into an Android app and ensures proper data type handling for model inputs and outputs.
 
